@@ -3,6 +3,7 @@
 ## Languages and Tools
 
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift&logoColor=#ff4f00)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-090909?style=for-the-badge&logo=cocoapods&logoColor=#ff4f00)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ddea39)
 ![Django](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=django&logoColor=47C5FB)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
