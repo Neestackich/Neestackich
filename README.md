@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neestackich&count_private=true&&hide=issues,contribs&show_icons=true&bg_color=22272e&hide_border=true&title_color=1eff00&text_color=6d00d4&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neestackich&count_private=true&&hide=issues,contribs&show_icons=true&bg_color=22272e&hide_border=true&title_color=fc5fa3&text_color=6d00d4&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
