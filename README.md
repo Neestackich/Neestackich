@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neestackich&count_private=true&&hide=issues,contribs&show_icons=true&bg_color=100f14&hide_border=true&title_color=dedede&text_color=5465e8&icon_color=db7979)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
