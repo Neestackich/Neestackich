@@ -25,7 +25,7 @@
 
 ## Contacts:
 
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=27A0D9)](neestackich@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=27A0D9)](https://mail.google.com/mail/#search/rfc822msgid%3neestackich%40gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neestackich)
 
 <!--
