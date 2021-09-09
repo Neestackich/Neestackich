@@ -19,8 +19,8 @@
 
 ## Contacts:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/neestackich/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neestackich)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-22272e?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/neestackich/)
+[![Telegram](https://img.shields.io/badge/-Telegram-22272e?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neestackich)
 
 <!--
 **Neestackich/Neestackich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
