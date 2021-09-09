@@ -7,7 +7,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-22272e?style=for-the-badge&logo=swift&logoColor=#ff4f00)
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-22272e?style=for-the-badge&logo=cocoapods&logoColor=#ff4f00)
 ![iOS](https://img.shields.io/badge/-iOS-22272e?style=for-the-badge&logo=ios&logoColor=#ff4f00)
-![CoreData](https://img.shields.io/badge/-CoreData-22272e?style=for-the-badge&logo=coredata&logoColor=#2887ce)
+![CoreData](https://img.shields.io/badge/-CoreData-22272e?style=for-the-badge&logo=coredata&logoColor=#ff4f00)
 ![Realm](https://img.shields.io/badge/-Realm-22272e?style=for-the-badge&logo=realm&logoColor=#ff4f00)
 
 ![Python](https://img.shields.io/badge/-Python-22272e?style=for-the-badge&logo=python&logoColor=ddea39)
