@@ -5,6 +5,7 @@
 ## Languages and Tools
 
 ![Swift](https://img.shields.io/badge/-Swift-22272e?style=for-the-badge&logo=swift&logoColor=#ff4f00)
+![RxSwift](https://img.shields.io/badge/-RxSwift-22272e?style=for-the-badge&logo=rxswift&logoColor=#ff4f00)
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-22272e?style=for-the-badge&logo=cocoapods&logoColor=#ff4f00)
 ![iOS](https://img.shields.io/badge/-iOS-22272e?style=for-the-badge&logo=ios&logoColor=#ff4f00)
 ![CoreData](https://img.shields.io/badge/-CoreData-22272e?style=for-the-badge&logo=coredata&logoColor=#ff4f00)
