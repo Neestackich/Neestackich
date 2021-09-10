@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neestackich&count_private=true&&hide=issues,contribs&show_icons=true&bg_color=22272e&hide_border=true&title_color=fc5fa3&text_color=6d00d4&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 
 ## Languages and Tools
 
@@ -16,7 +16,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-22272e?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![Unix](https://img.shields.io/badge/-unix-22272e?style=for-the-badge&logo=ubuntu&logoColor=f49821)
 
----
+
 
 ## Contacts:
 
