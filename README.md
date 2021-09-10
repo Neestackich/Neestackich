@@ -2,7 +2,7 @@
 
 ---
 
-# Languages and Tools
+## Languages and Tools
 
 ![Swift](https://img.shields.io/badge/-Swift-22272e?style=for-the-badge&logo=swift&logoColor=#ff4f00)
 ![RxSwift](https://img.shields.io/badge/-RxSwift-22272e?style=for-the-badge&logo=rxswift&logoColor=#ff4f00)
